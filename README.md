@@ -18,3 +18,4 @@ But overall, this assignment was pretty simple once I figured out how Moment.js 
 I learned a lot more about JQuery and using third-party APIs like Moment.js so that my browser can follow the time of my time zone.
 
 ## Screenshot
+![Working Screenshot]{https://usualketchup.github.com/assets/images/2020-04-16\(2\).png)
